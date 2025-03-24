@@ -1,0 +1,5 @@
+Succeed=当前值: {0}
+Description=等待 SNMP-Trap 请求
+Comment=OID: %OID%
+
+lbPort=端口:

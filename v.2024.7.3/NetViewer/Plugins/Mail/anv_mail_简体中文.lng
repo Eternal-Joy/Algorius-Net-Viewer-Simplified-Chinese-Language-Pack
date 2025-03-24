@@ -1,0 +1,17 @@
+Description=邮件服务器检查
+Comment=协议: %Protocol%，端口: %Port%，超时时间: %Timeout% 秒。
+
+NumberOfNewMessages=新消息数量: {0}
+NumberOfMessages=消息数量: {0}
+ResponseTime=在 {0} 内建立连接
+
+50001=SSL 授权错误。
+50002=无法确定消息数量。
+
+lbPort=端口:
+edMeasure.Item0=响应时间 (毫秒)
+edMeasure.Item1=消息数量
+edMeasure.Item2=新消息数量
+cbUseSSL=使用 SSL
+lbProtocol=协议:
+lbFolder=文件夹:

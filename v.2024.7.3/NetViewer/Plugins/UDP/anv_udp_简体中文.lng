@@ -1,0 +1,7 @@
+Succeed=在 {0} 内收到响应
+Description=UDP 请求
+Comment=端口: %Port%，超时时间: %Timeout% 秒。
+
+lbPort=端口:
+lbLocalPort=本地端口:
+lbMessage=消息:

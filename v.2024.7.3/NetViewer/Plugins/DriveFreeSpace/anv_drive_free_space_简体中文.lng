@@ -1,0 +1,12 @@
+Succeed=可用空间: {0}
+Description=磁盘可用空间
+Comment=超时时间: %Timeout% 秒。
+
+50001=可用空间太少
+50003=未找到值
+50004=无法执行 WMI 脚本
+
+cbDrives=仅收集以下磁盘的信息：
+
+edDriveFreeSpaceMeasure.Item0=可用空间大小
+edDriveFreeSpaceMeasure.Item1=可用空间百分比

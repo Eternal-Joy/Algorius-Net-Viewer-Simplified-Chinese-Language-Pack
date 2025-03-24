@@ -1,0 +1,18 @@
+Succeed=命令已成功执行，结果为 {0}
+Description=通过 SSH 执行指定命令
+
+50002=未找到文本前缀
+50003=未找到值
+50004=无法执行命令
+
+lbPort=端口:
+lbAuthentication=认证方式:
+edAuthentication.Item0=密码认证
+edAuthentication.Item1=私钥认证
+lbPrivateKeyFile=密钥文件:
+lbKeyPassPhrase=密钥密码短语:
+lbCommands=命令:
+lbValuePrefix=前缀:
+lbEncoding=编码:
+edMeasure.Item0=执行时长
+edMeasure.Item1=从控制台文本中获取的值

@@ -1,0 +1,12 @@
+Succeed=查询成功执行，结果为 {0}
+Description=执行 SQL 查询
+Comment=数据库: %DbType%
+
+lbDbType=数据库:
+cbPort=端口:
+lbDatabase=数据库名称:
+lbDataSource=数据源:
+lbServiceName=服务名称:
+lbAdditionalConnectionString=额外连接字符串:
+lbConnectionString=连接字符串:
+lbQuery=查询:

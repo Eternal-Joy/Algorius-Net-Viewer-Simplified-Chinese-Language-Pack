@@ -1,0 +1,11 @@
+Succeed=当前温度: {0}
+Description=计算机温度测量
+Comment=超时时间: %Timeout% 秒。
+
+50001=温度过高
+50003=未找到数值
+50004=无法执行 WMI 脚本
+
+lbDegrees=以以下单位显示数值
+rbCelsius=摄氏度
+rbFahrenheit=华氏度

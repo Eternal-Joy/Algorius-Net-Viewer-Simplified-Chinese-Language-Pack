@@ -1,0 +1,5 @@
+Succeed=在 {0} 内建立连接
+Description=连接到指定的 TCP 端口
+Comment=端口: %Port%，超时时间: %Timeout% 秒。
+
+lbPort=端口:

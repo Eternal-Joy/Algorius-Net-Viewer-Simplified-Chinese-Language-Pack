@@ -1,0 +1,9 @@
+Succeed=CPU 使用率: {0}
+Description=测量 CPU 使用率
+Comment=超时时间: %Timeout% 秒。
+
+50004=无法执行 WMI 脚本
+
+lbCpuUsage=CPU 使用率:
+edPeriod.Item0=过去一分钟
+edPeriod.Item1=过去一秒钟

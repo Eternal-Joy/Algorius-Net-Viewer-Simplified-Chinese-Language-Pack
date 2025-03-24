@@ -1,0 +1,10 @@
+Succeed=当前值: {0}
+Description=测量物理内存容量
+Comment=超时时间: %Timeout% 秒。
+
+50004=无法执行 WMI 脚本
+
+edMemoryMeasure.Item0=可用内存容量
+edPeriod.Item1=已使用内存容量
+edPeriod.Item2=可用内存百分比
+edPeriod.Item3=已使用内存百分比

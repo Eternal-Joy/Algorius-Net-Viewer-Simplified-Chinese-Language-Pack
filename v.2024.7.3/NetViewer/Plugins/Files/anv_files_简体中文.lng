@@ -1,0 +1,11 @@
+Succeed={0}
+Description=文件数量、大小和读取速度
+50002=未找到文件或目录
+50003=未找到文件
+50004=文件名或目录名无效
+edMeasure.Item0=文件数量
+edMeasure.Item1=总大小
+edMeasure.Item2=读取速度
+lbMask=掩码:
+cbNotOlder=不早于:
+lbDays=天

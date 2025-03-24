@@ -1,0 +1,13 @@
+Succeed=请求成功执行，结果为 {0}
+Description=执行 PowerShell 请求
+Comment=超时时间: %Timeout% 秒。
+
+50004=无法执行指定的脚本
+50005=无法找到指定的属性
+
+lbAuthentication=身份验证:
+lbScript=脚本:
+cbUseSSL=使用 SSL
+lbProperty=属性名称:
+edMeasure.Item0=输出中的值
+edMeasure.Item1=属性值

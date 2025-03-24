@@ -1,0 +1,9 @@
+Succeed=服务已启动
+Description=检查服务是否已启动
+Comment=服务: '%ServiceName%'，超时时间: %Timeout% 秒。
+
+50004=无法执行 WMI 脚本
+50100=服务未启动
+50101=未找到该服务
+
+lbServiceName=服务名称:

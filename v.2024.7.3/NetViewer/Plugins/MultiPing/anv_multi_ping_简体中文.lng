@@ -1,0 +1,8 @@
+Succeed=Ping 在 {0} 内成功
+Description=多个 ICMP 请求，类似于 Ping.exe
+Comment=请求次数: %RequestCount%; 超时时间: %Timeout% 秒。
+
+lbTimeout=Ping 超时时间 (秒):
+lbCount=请求次数:
+lbResponse=足够的响应次数:
+lbDelay=请求之间的暂停时间 (毫秒):

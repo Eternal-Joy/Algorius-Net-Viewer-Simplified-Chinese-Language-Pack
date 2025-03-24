@@ -1,0 +1,19 @@
+Succeed=请求成功执行，结果为 {0}
+Description=连接到指定的 HTTP(S)、FTP(S) 或 FILE 地址
+Comment=超时时间: %Timeout% 秒。
+
+50001=状态码缺失
+50002=未找到文本前缀
+50003=未找到值
+
+cbUseProxy=使用代理
+lbAuthentication=身份验证:
+edAuthentication.Item0=无
+edAuthentication.Item1=基本
+edAuthentication.Item2=按密码
+edAuthentication.Item3=内置 Windows (Kerberos)
+edMeasure.Item0=连接时间
+edMeasure.Item1=状态码
+edMeasure.Item2=内容长度
+edMeasure.Item3=内容中的值
+lbValuePrefix=前缀:

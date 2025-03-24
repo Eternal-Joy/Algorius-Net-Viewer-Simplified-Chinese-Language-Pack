@@ -1,0 +1,5 @@
+Succeed=在 {0} 内收到响应
+Description=ARP  ping
+Comment=超时时间: %Timeout% 秒。
+
+50001=未找到 IPv4 地址

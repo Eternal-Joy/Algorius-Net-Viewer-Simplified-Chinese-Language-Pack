@@ -1,0 +1,17 @@
+Succeed=命令执行成功，结果为 {0}
+Description=执行指定的外部命令
+Comment=文件: %File%
+
+50001=返回码错误
+50002=未找到文本前缀
+50003=未找到值
+50004=无法启动指定的文件
+
+lbFile=文件:
+lbArguments=参数:
+cbInactiveByExitCode=如果返回码在以下范围则为非活动状态:
+lbValuePrefix=前缀:
+lbEncoding=编码:
+lbInactiveMaxExitCode=到:
+edMeasure.Item0=执行时长
+edMeasure.Item1=从控制台文本中获取的值
